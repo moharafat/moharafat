@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm interested in Software Engineering & Web Development.
-<img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moharafat&theme=github"/>
-<img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moharafat"/>
+
+<img height="20em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moharafat&theme=github"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moharafat"/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moharafat)](https://git.io/streak-stats)
