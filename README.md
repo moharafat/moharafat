@@ -20,10 +20,10 @@ I'm interested in Software Engineering & Web Development.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moharafat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moharafat)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moharafat&theme=github"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moharafat"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moharafat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
