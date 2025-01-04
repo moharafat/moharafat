@@ -27,6 +27,8 @@ I'm interested in Software Engineering & Web Development.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moharafat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moharafat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+-->
