@@ -20,6 +20,12 @@ I'm interested in Software Engineering & Web Development.
 ![Second GIF](https://64.media.tumblr.com/d29ff8e8f0938470e026fbc7a5992244/a3d60dd0ad07d2b4-bb/s1280x1920/b17336ed52a9bdff0fe9c49c0ea5a213f52c6e9e.gif)
 
 ---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/moharafat/count.svg?"  />
+</div>
+
+###
 <!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=moharafat.moharafat&"  />
