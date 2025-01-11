@@ -25,7 +25,7 @@ I'm interested in Software Engineering & Web Development.
 
 
 <div align="center">
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=moharafat.moharafat](https://visitor-badge.laobi.icu/badge?page_id=moharafat.moharafat)&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=moharafat.moharafat&"  />
 </div>
 
 
