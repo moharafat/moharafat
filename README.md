@@ -36,7 +36,7 @@ I'm interested in Software Engineering & Web Development.
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=moharafat)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moharafat)](https://git.io/streak-stats)
 <!-- 
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moharafat&theme=github"/>
